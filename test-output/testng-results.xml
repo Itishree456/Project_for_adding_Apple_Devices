@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-20T16:27:57 IST" name="Suite" finished-at="2023-06-20T16:28:21 IST" duration-ms="23968">
+    <groups>
+    </groups>
+    <test started-at="2023-06-20T16:27:57 IST" name="Test" finished-at="2023-06-20T16:28:21 IST" duration-ms="23968">
+      <class name="testClsPackage.Post_TC_3">
+        <test-method signature="execute()[pri:0, instance:testClsPackage.Post_TC_3@74d1dc36]" started-at="2023-06-20T16:28:14 IST" name="execute" finished-at="2023-06-20T16:28:16 IST" duration-ms="2093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClsPackage.Post_TC_3 -->
+      <class name="testClsPackage.Post_TC_4">
+        <test-method signature="execute()[pri:0, instance:testClsPackage.Post_TC_4@7161d8d1]" started-at="2023-06-20T16:28:16 IST" name="execute" finished-at="2023-06-20T16:28:21 IST" duration-ms="5002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClsPackage.Post_TC_4 -->
+      <class name="testClsPackage.Post_TC_1">
+        <test-method signature="execute()[pri:0, instance:testClsPackage.Post_TC_1@543295b0]" started-at="2023-06-20T16:27:58 IST" name="execute" finished-at="2023-06-20T16:28:12 IST" duration-ms="13990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClsPackage.Post_TC_1 -->
+      <class name="testClsPackage.Post_TC_2">
+        <test-method signature="execute()[pri:0, instance:testClsPackage.Post_TC_2@75d3a5e0]" started-at="2023-06-20T16:28:12 IST" name="execute" finished-at="2023-06-20T16:28:14 IST" duration-ms="2161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute -->
+      </class> <!-- testClsPackage.Post_TC_2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
